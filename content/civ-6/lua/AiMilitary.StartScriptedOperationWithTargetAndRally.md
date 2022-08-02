@@ -1,0 +1,21 @@
+---
+UI: false
+arguments: []
+invoke: ':'
+memberOf: AiMilitary
+methodname: StartScriptedOperationWithTargetAndRally
+returns: []
+script: true
+tags:
+- AiMilitary/_function
+- function/script
+title: AiMilitary.StartScriptedOperationWithTargetAndRally
+---
+# AiMilitary:StartScriptedOperationWithTargetAndRally
+> this function is a member of [[AiMilitary]]
+> this method expects an implicit "self" argument. invoke it with `:`
+-----
+## Usage
+|  UI | Script | Returns | Function | Arguments |
+|:---:|:------:|-------:|:--------:|:---------|
+| |✓||AiMilitary:StartScriptedOperationWithTargetAndRally||

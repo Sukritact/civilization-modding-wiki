@@ -16,7 +16,7 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 > Testing
 
 Just testing wikilinks: [[notes/updating]]
-Banana
+[[civ-6/civ-6-index]]
 
 ## Get Started
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
