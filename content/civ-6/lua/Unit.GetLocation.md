@@ -21,3 +21,6 @@ title: Unit.GetLocation
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
 |✓|✓|`UnitLocation [table]`|Unit:GetLocation||
+
+## Notes
+The function returns a table with two indices: `x`, and `y`.

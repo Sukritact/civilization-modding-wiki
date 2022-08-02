@@ -1,5 +1,7 @@
 ---
 title: "About Get-SetProperty"
+tags:
+- civ6/article/lua
 ---
 # Get/SetProperty
 

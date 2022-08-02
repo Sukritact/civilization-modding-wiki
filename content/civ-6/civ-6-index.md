@@ -3,7 +3,7 @@ title: "Civ 6 Modding Index"
 ---
 
 ## Links
-- [Knowledge Index](Knowledge)
+#civ6/article/lua
 
 ## Objects
 
