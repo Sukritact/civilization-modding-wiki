@@ -3,7 +3,7 @@ title: "Civ 6 Modding Index"
 ---
 
 ## Links
-#civ6/article/lua
+[Lua Articles](tags/civ6/article/lua/)
 
 ## Objects
 
