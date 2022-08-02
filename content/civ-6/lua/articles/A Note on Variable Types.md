@@ -28,3 +28,6 @@ The notation is sometimes extended to include the scope of a variable, optionall
 -   `m_wheels`, `_wheels` : member of a structure/class
 -   `s_wheels` : static member of a class
 -   `c_wheels` : static member of a function
+
+------------
+[^1]: This is an article on using Lua in [Civilization 6 ](civ-6/civ-6-index.md)
