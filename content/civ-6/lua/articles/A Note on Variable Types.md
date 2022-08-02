@@ -1,7 +1,7 @@
 ---
 title: "A Note on Variable Types"
 tags:
-- civ6/article/lua
+- civ6/articles/lua
 ---
 # A Note on Value Types
 While working in Lua for Civ VI, you will regularly encounter six types of values: `nil`, `number`, `string`, `boolean`, `function` and `table`. You will also encounter `object` variables; though they are often technically `tables`, are utilised significantly differently.
@@ -30,4 +30,4 @@ The notation is sometimes extended to include the scope of a variable, optionall
 -   `c_wheels` : static member of a function
 
 ------------
-[^1]: This is an article on using Lua in [Civilization 6 ](civ-6/civ-6-index.md)
+[^1]: This is an article on using Lua in [Civilization 6 ](civ-6/lua/articles/articles-index)

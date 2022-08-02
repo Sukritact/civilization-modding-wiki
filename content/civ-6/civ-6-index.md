@@ -2,6 +2,11 @@
 title: "Civ 6 Modding Index"
 ---
 
+## Articles
+
+[Lua Articles](civ-6/lua/articles/articles-index.md)
+
+
 ## Objects
 
 ### Events

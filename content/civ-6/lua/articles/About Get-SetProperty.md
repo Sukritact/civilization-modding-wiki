@@ -1,7 +1,7 @@
 ---
 title: "About Get-SetProperty"
 tags:
-- civ6/article/lua
+- civ6/articles/lua
 ---
 # Get/SetProperty
 
@@ -21,4 +21,4 @@ Properties stored this way are tied to the save file and will persist when the g
 The method can store a large variety of different data types, but notably it can also store Lua tables! So you don't have to store every separate piece of data under a separate key.
 
 ------------
-[^1]: This is an article on using Lua in [Civilization 6 ](civ-6/civ-6-index.md)
+[^1]: This is an article on using Lua in [Civilization 6 ](civ-6/lua/articles/articles-index)
