@@ -13,7 +13,7 @@ tags:
 title: Cities.GetPlotPurchaseCity
 ---
 # Cities.GetPlotPurchaseCity
-> this function is a member of [[Cities]]
+> this function is a member of [Cities](civ-6/lua/Cities.md)
 > this method can be invoked with `.`
 -----
 ## Usage

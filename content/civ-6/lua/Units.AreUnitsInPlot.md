@@ -13,7 +13,7 @@ tags:
 title: Units.AreUnitsInPlot
 ---
 # Units.AreUnitsInPlot
-> this function is a member of [[Units]]
+> this function is a member of [Units](civ-6/lua/Units.md)
 > this method can be invoked with `.`
 -----
 ## Usage

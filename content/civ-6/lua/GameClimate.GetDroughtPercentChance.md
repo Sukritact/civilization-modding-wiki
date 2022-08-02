@@ -13,7 +13,7 @@ tags:
 title: GameClimate.GetDroughtPercentChance
 ---
 # GameClimate.GetDroughtPercentChance
-> this function is a member of [[GameClimate]]
+> this function is a member of [GameClimate](civ-6/lua/GameClimate.md)
 > this method can be invoked with `.`
 -----
 ## Usage

@@ -12,7 +12,7 @@ tags:
 title: Barbarians.GetTribeType
 ---
 # Barbarians:GetTribeType
-> this function is a member of [[Barbarians]]
+> this function is a member of [Barbarians](civ-6/lua/Barbarians.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

@@ -14,10 +14,10 @@ tags:
 title: Game.GetReligion
 ---
 # Game.GetReligion
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[GameReligion]]|Game.GetReligion||
+|✓|✓|[GameReligion](civ-6/lua/GameReligion.md)|Game.GetReligion||

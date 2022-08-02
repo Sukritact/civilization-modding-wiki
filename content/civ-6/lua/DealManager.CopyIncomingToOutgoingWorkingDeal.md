@@ -13,7 +13,7 @@ tags:
 title: DealManager.CopyIncomingToOutgoingWorkingDeal
 ---
 # DealManager.CopyIncomingToOutgoingWorkingDeal
-> this function is a member of [[DealManager]]
+> this function is a member of [DealManager](civ-6/lua/DealManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

@@ -14,10 +14,10 @@ tags:
 title: Player.GetUnits
 ---
 # Player:GetUnits
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[PlayerUnits]]|Player:GetUnits||
+|✓|✓|[PlayerUnits](civ-6/lua/PlayerUnits.md)|Player:GetUnits||

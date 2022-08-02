@@ -13,7 +13,7 @@ tags:
 title: Unit.HasPendingOperations
 ---
 # Unit:HasPendingOperations
-> this function is a member of [[Unit]]
+> this function is a member of [Unit](civ-6/lua/Unit.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

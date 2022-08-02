@@ -13,7 +13,7 @@ tags:
 title: Plot.GetAppeal
 ---
 # Plot:GetAppeal
-> this function is a member of [[Plot]]
+> this function is a member of [Plot](civ-6/lua/Plot.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

@@ -13,7 +13,7 @@ tags:
 title: Area.GetPlotCount
 ---
 # Area:GetPlotCount
-> this function is a member of [[Area]]
+> this function is a member of [Area](civ-6/lua/Area.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

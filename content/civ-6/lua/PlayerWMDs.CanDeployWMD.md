@@ -13,7 +13,7 @@ tags:
 title: PlayerWMDs.CanDeployWMD
 ---
 # PlayerWMDs:CanDeployWMD
-> this function is a member of [[PlayerWMDs]]
+> this function is a member of [PlayerWMDs](civ-6/lua/PlayerWMDs.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

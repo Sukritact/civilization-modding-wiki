@@ -12,7 +12,7 @@ tags:
 title: DiplomacyManager.AddCommand
 ---
 # DiplomacyManager.AddCommand
-> this function is a member of [[DiplomacyManager]]
+> this function is a member of [DiplomacyManager](civ-6/lua/DiplomacyManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

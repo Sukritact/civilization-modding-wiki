@@ -13,7 +13,7 @@ tags:
 title: PlayerCulture.CivicCompletedThisTurn
 ---
 # PlayerCulture:CivicCompletedThisTurn
-> this function is a member of [[PlayerCulture]]
+> this function is a member of [PlayerCulture](civ-6/lua/PlayerCulture.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

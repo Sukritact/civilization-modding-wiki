@@ -12,7 +12,7 @@ tags:
 title: CityGold.IsBuildingFaithPurchaseEnabled
 ---
 # CityGold:IsBuildingFaithPurchaseEnabled
-> this function is a member of [[CityGold]]
+> this function is a member of [CityGold](civ-6/lua/CityGold.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

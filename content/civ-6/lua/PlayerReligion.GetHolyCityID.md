@@ -12,7 +12,7 @@ tags:
 title: PlayerReligion.GetHolyCityID
 ---
 # PlayerReligion:GetHolyCityID
-> this function is a member of [[PlayerReligion]]
+> this function is a member of [PlayerReligion](civ-6/lua/PlayerReligion.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

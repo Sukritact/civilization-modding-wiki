@@ -14,10 +14,10 @@ tags:
 title: Player.GetReligion
 ---
 # Player:GetReligion
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[PlayerReligion]]|Player:GetReligion||
+|✓|✓|[PlayerReligion](civ-6/lua/PlayerReligion.md)|Player:GetReligion||

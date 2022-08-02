@@ -12,7 +12,7 @@ tags:
 title: CityCulturalIdentity.GetLoyaltyPerTurnFromIdentityPressureRatio
 ---
 # CityCulturalIdentity:GetLoyaltyPerTurnFromIdentityPressureRatio
-> this function is a member of [[CityCulturalIdentity]]
+> this function is a member of [CityCulturalIdentity](civ-6/lua/CityCulturalIdentity.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

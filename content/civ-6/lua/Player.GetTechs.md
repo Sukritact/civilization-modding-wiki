@@ -14,10 +14,10 @@ tags:
 title: Player.GetTechs
 ---
 # Player:GetTechs
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[PlayerTechs]]|Player:GetTechs||
+|✓|✓|[PlayerTechs](civ-6/lua/PlayerTechs.md)|Player:GetTechs||

@@ -12,7 +12,7 @@ tags:
 title: CityManager.GetFreeCityAt
 ---
 # CityManager.GetFreeCityAt
-> this function is a member of [[CityManager]]
+> this function is a member of [CityManager](civ-6/lua/CityManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

@@ -13,7 +13,7 @@ tags:
 title: GameReligion.HasBeliefEachType
 ---
 # GameReligion:HasBeliefEachType
-> this function is a member of [[GameReligion]]
+> this function is a member of [GameReligion](civ-6/lua/GameReligion.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

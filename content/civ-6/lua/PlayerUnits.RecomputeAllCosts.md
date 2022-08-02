@@ -12,7 +12,7 @@ tags:
 title: PlayerUnits.RecomputeAllCosts
 ---
 # PlayerUnits:RecomputeAllCosts
-> this function is a member of [[PlayerUnits]]
+> this function is a member of [PlayerUnits](civ-6/lua/PlayerUnits.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

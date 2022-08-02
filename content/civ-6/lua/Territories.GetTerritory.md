@@ -13,7 +13,7 @@ tags:
 title: Territories.GetTerritory
 ---
 # Territories.GetTerritory
-> this function is a member of [[Territories]]
+> this function is a member of [Territories](civ-6/lua/Territories.md)
 > this method can be invoked with `.`
 -----
 ## Usage

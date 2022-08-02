@@ -12,7 +12,7 @@ tags:
 title: UnitReligion.ChangeForeignSpreadModifier
 ---
 # UnitReligion:ChangeForeignSpreadModifier
-> this function is a member of [[UnitReligion]]
+> this function is a member of [UnitReligion](civ-6/lua/UnitReligion.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

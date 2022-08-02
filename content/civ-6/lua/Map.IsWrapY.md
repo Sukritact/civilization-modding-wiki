@@ -13,7 +13,7 @@ tags:
 title: Map.IsWrapY
 ---
 # Map.IsWrapY
-> this function is a member of [[Map]]
+> this function is a member of [Map](civ-6/lua/Map.md)
 > this method can be invoked with `.`
 -----
 ## Usage

@@ -13,7 +13,7 @@ tags:
 title: Map.GetPlotXY
 ---
 # Map.GetPlotXY
-> this function is a member of [[Map]]
+> this function is a member of [Map](civ-6/lua/Map.md)
 > this method can be invoked with `.`
 -----
 ## Usage

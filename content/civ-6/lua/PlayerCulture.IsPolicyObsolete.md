@@ -13,7 +13,7 @@ tags:
 title: PlayerCulture.IsPolicyObsolete
 ---
 # PlayerCulture:IsPolicyObsolete
-> this function is a member of [[PlayerCulture]]
+> this function is a member of [PlayerCulture](civ-6/lua/PlayerCulture.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

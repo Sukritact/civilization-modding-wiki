@@ -12,7 +12,7 @@ tags:
 title: CityBuildings.RemoveBuilding
 ---
 # CityBuildings:RemoveBuilding
-> this function is a member of [[CityBuildings]]
+> this function is a member of [CityBuildings](civ-6/lua/CityBuildings.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

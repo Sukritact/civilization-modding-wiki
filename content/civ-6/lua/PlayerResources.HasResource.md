@@ -13,7 +13,7 @@ tags:
 title: PlayerResources.HasResource
 ---
 # PlayerResources:HasResource
-> this function is a member of [[PlayerResources]]
+> this function is a member of [PlayerResources](civ-6/lua/PlayerResources.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

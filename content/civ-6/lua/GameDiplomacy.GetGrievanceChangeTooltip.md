@@ -13,7 +13,7 @@ tags:
 title: GameDiplomacy.GetGrievanceChangeTooltip
 ---
 # GameDiplomacy:GetGrievanceChangeTooltip
-> this function is a member of [[GameDiplomacy]]
+> this function is a member of [GameDiplomacy](civ-6/lua/GameDiplomacy.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

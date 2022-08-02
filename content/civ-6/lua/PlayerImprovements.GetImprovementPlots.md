@@ -12,7 +12,7 @@ tags:
 title: PlayerImprovements.GetImprovementPlots
 ---
 # PlayerImprovements:GetImprovementPlots
-> this function is a member of [[PlayerImprovements]]
+> this function is a member of [PlayerImprovements](civ-6/lua/PlayerImprovements.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

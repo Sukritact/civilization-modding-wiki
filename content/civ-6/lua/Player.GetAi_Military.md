@@ -13,10 +13,10 @@ tags:
 title: Player.GetAi_Military
 ---
 # Player:GetAi_Military
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-| |✓|[[AiMilitary]]|Player:GetAi_Military||
+| |✓|[AiMilitary](civ-6/lua/AiMilitary.md)|Player:GetAi_Military||

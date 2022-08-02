@@ -13,7 +13,7 @@ tags:
 title: GameRandomEvents.GetEventsForTurn
 ---
 # GameRandomEvents.GetEventsForTurn
-> this function is a member of [[GameRandomEvents]]
+> this function is a member of [GameRandomEvents](civ-6/lua/GameRandomEvents.md)
 > this method can be invoked with `.`
 -----
 ## Usage

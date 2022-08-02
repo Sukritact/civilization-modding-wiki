@@ -14,10 +14,10 @@ tags:
 title: Game.GetGreatPeople
 ---
 # Game.GetGreatPeople
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[GameGreatPeople]]|Game.GetGreatPeople||
+|✓|✓|[GameGreatPeople](civ-6/lua/GameGreatPeople.md)|Game.GetGreatPeople||

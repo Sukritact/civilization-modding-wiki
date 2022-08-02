@@ -14,10 +14,10 @@ tags:
 title: Game.GetFalloutManager
 ---
 # Game.GetFalloutManager
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[GameFalloutManager]]|Game.GetFalloutManager||
+|✓|✓|[GameFalloutManager](civ-6/lua/GameFalloutManager.md)|Game.GetFalloutManager||

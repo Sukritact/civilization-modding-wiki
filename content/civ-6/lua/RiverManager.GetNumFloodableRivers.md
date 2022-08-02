@@ -13,7 +13,7 @@ tags:
 title: RiverManager.GetNumFloodableRivers
 ---
 # RiverManager.GetNumFloodableRivers
-> this function is a member of [[RiverManager]]
+> this function is a member of [RiverManager](civ-6/lua/RiverManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

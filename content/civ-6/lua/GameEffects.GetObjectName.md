@@ -13,7 +13,7 @@ tags:
 title: GameEffects.GetObjectName
 ---
 # GameEffects.GetObjectName
-> this function is a member of [[GameEffects]]
+> this function is a member of [GameEffects](civ-6/lua/GameEffects.md)
 > this method can be invoked with `.`
 -----
 ## Usage

@@ -14,10 +14,10 @@ tags:
 title: City.GetReligion
 ---
 # City:GetReligion
-> this function is a member of [[City]]
+> this function is a member of [City](civ-6/lua/City.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[CityReligion]]|City:GetReligion||
+|✓|✓|[CityReligion](civ-6/lua/CityReligion.md)|City:GetReligion||

@@ -14,10 +14,10 @@ tags:
 title: City.GetDistricts
 ---
 # City:GetDistricts
-> this function is a member of [[City]]
+> this function is a member of [City](civ-6/lua/City.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[CityDistricts]]|City:GetDistricts||
+|✓|✓|[CityDistricts](civ-6/lua/CityDistricts.md)|City:GetDistricts||

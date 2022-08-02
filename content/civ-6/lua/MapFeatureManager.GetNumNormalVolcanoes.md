@@ -13,7 +13,7 @@ tags:
 title: MapFeatureManager.GetNumNormalVolcanoes
 ---
 # MapFeatureManager.GetNumNormalVolcanoes
-> this function is a member of [[MapFeatureManager]]
+> this function is a member of [MapFeatureManager](civ-6/lua/MapFeatureManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

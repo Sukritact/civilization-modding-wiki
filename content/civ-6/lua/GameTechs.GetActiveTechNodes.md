@@ -12,7 +12,7 @@ tags:
 title: GameTechs.GetActiveTechNodes
 ---
 # GameTechs:GetActiveTechNodes
-> this function is a member of [[GameTechs]]
+> this function is a member of [GameTechs](civ-6/lua/GameTechs.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

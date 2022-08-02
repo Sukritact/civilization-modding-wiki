@@ -12,7 +12,7 @@ tags:
 title: GameConfiguration.GetHumanPlayerIDs
 ---
 # GameConfiguration.GetHumanPlayerIDs
-> this function is a member of [[GameConfiguration]]
+> this function is a member of [GameConfiguration](civ-6/lua/GameConfiguration.md)
 > this method can be invoked with `.`
 -----
 ## Usage

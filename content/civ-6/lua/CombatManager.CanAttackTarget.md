@@ -13,7 +13,7 @@ tags:
 title: CombatManager.CanAttackTarget
 ---
 # CombatManager.CanAttackTarget
-> this function is a member of [[CombatManager]]
+> this function is a member of [CombatManager](civ-6/lua/CombatManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

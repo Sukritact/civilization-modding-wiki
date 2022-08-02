@@ -13,7 +13,7 @@ tags:
 title: PlayerVisibilityManager.IsVisibleToNonOwner
 ---
 # PlayerVisibilityManager.IsVisibleToNonOwner
-> this function is a member of [[PlayerVisibilityManager]]
+> this function is a member of [PlayerVisibilityManager](civ-6/lua/PlayerVisibilityManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

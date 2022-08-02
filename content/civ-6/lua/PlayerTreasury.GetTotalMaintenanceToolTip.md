@@ -12,7 +12,7 @@ tags:
 title: PlayerTreasury.GetTotalMaintenanceToolTip
 ---
 # PlayerTreasury:GetTotalMaintenanceToolTip
-> this function is a member of [[PlayerTreasury]]
+> this function is a member of [PlayerTreasury](civ-6/lua/PlayerTreasury.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

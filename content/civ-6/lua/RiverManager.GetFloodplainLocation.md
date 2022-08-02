@@ -13,7 +13,7 @@ tags:
 title: RiverManager.GetFloodplainLocation
 ---
 # RiverManager.GetFloodplainLocation
-> this function is a member of [[RiverManager]]
+> this function is a member of [RiverManager](civ-6/lua/RiverManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

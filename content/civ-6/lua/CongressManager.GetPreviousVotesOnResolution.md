@@ -12,7 +12,7 @@ tags:
 title: CongressManager.GetPreviousVotesOnResolution
 ---
 # CongressManager:GetPreviousVotesOnResolution
-> this function is a member of [[CongressManager]]
+> this function is a member of [CongressManager](civ-6/lua/CongressManager.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

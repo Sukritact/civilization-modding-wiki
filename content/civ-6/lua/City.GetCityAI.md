@@ -13,10 +13,10 @@ tags:
 title: City.GetCityAI
 ---
 # City:GetCityAI
-> this function is a member of [[City]]
+> this function is a member of [City](civ-6/lua/City.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[AiCityBuild]]|City:GetCityAI||
+|✓| |[AiCityBuild](civ-6/lua/AiCityBuild.md)|City:GetCityAI||

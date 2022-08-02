@@ -12,7 +12,7 @@ tags:
 title: GameCulture.GetActiveCivicNodes
 ---
 # GameCulture:GetActiveCivicNodes
-> this function is a member of [[GameCulture]]
+> this function is a member of [GameCulture](civ-6/lua/GameCulture.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

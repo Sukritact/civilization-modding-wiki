@@ -13,10 +13,10 @@ tags:
 title: City.GetTrade
 ---
 # City:GetTrade
-> this function is a member of [[City]]
+> this function is a member of [City](civ-6/lua/City.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[CityTrade]]|City:GetTrade||
+|✓| |[CityTrade](civ-6/lua/CityTrade.md)|City:GetTrade||

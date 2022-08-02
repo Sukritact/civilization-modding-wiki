@@ -12,7 +12,7 @@ tags:
 title: TerrainManager.SubmergeCoast
 ---
 # TerrainManager.SubmergeCoast
-> this function is a member of [[TerrainManager]]
+> this function is a member of [TerrainManager](civ-6/lua/TerrainManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

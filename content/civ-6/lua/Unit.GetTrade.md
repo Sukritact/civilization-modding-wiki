@@ -13,10 +13,10 @@ tags:
 title: Unit.GetTrade
 ---
 # Unit:GetTrade
-> this function is a member of [[Unit]]
+> this function is a member of [Unit](civ-6/lua/Unit.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[UnitTrade]]|Unit:GetTrade||
+|✓| |[UnitTrade](civ-6/lua/UnitTrade.md)|Unit:GetTrade||

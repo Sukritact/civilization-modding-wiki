@@ -14,10 +14,10 @@ tags:
 title: Territories.GetTerritoryAt
 ---
 # Territories.GetTerritoryAt
-> this function is a member of [[Territories]]
+> this function is a member of [Territories](civ-6/lua/Territories.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[Territory]]|Territories.GetTerritoryAt||
+|✓|✓|[Territory](civ-6/lua/Territory.md)|Territories.GetTerritoryAt||

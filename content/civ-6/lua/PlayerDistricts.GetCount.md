@@ -13,7 +13,7 @@ tags:
 title: PlayerDistricts.GetCount
 ---
 # PlayerDistricts:GetCount
-> this function is a member of [[PlayerDistricts]]
+> this function is a member of [PlayerDistricts](civ-6/lua/PlayerDistricts.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

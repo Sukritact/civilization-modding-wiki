@@ -15,7 +15,7 @@ tags:
 title: Game.GetRandNum
 ---
 # Game.GetRandNum
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage

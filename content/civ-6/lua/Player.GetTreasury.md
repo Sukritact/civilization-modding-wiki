@@ -14,10 +14,10 @@ tags:
 title: Player.GetTreasury
 ---
 # Player:GetTreasury
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[PlayerTreasury]]|Player:GetTreasury||
+|✓|✓|[PlayerTreasury](civ-6/lua/PlayerTreasury.md)|Player:GetTreasury||

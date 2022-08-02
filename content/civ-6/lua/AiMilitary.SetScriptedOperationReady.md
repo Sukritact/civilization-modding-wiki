@@ -12,7 +12,7 @@ tags:
 title: AiMilitary.SetScriptedOperationReady
 ---
 # AiMilitary:SetScriptedOperationReady
-> this function is a member of [[AiMilitary]]
+> this function is a member of [AiMilitary](civ-6/lua/AiMilitary.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

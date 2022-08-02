@@ -14,10 +14,10 @@ tags:
 title: Plot.GetArea
 ---
 # Plot:GetArea
-> this function is a member of [[Plot]]
+> this function is a member of [Plot](civ-6/lua/Plot.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[Area]]|Plot:GetArea||
+|✓|✓|[Area](civ-6/lua/Area.md)|Plot:GetArea||

@@ -13,10 +13,10 @@ tags:
 title: City.GetCulture
 ---
 # City:GetCulture
-> this function is a member of [[City]]
+> this function is a member of [City](civ-6/lua/City.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[CityCulture]]|City:GetCulture||
+|✓| |[CityCulture](civ-6/lua/CityCulture.md)|City:GetCulture||

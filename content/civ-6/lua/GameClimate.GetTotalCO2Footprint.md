@@ -13,7 +13,7 @@ tags:
 title: GameClimate.GetTotalCO2Footprint
 ---
 # GameClimate.GetTotalCO2Footprint
-> this function is a member of [[GameClimate]]
+> this function is a member of [GameClimate](civ-6/lua/GameClimate.md)
 > this method can be invoked with `.`
 -----
 ## Usage

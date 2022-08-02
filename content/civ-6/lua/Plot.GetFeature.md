@@ -14,10 +14,10 @@ tags:
 title: Plot.GetFeature
 ---
 # Plot:GetFeature
-> this function is a member of [[Plot]]
+> this function is a member of [Plot](civ-6/lua/Plot.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[MapFeature]]|Plot:GetFeature||
+|✓|✓|[MapFeature](civ-6/lua/MapFeature.md)|Plot:GetFeature||

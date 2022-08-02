@@ -13,7 +13,7 @@ tags:
 title: MapFeature.GetPlots
 ---
 # MapFeature:GetPlots
-> this function is a member of [[MapFeature]]
+> this function is a member of [MapFeature](civ-6/lua/MapFeature.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

@@ -12,7 +12,7 @@ tags:
 title: MapConfiguration.GetScript
 ---
 # MapConfiguration.GetScript
-> this function is a member of [[MapConfiguration]]
+> this function is a member of [MapConfiguration](civ-6/lua/MapConfiguration.md)
 > this method can be invoked with `.`
 -----
 ## Usage

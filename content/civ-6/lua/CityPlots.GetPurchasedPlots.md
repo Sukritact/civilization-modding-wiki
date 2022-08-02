@@ -12,7 +12,7 @@ tags:
 title: CityPlots.GetPurchasedPlots
 ---
 # CityPlots:GetPurchasedPlots
-> this function is a member of [[CityPlots]]
+> this function is a member of [CityPlots](civ-6/lua/CityPlots.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

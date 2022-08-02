@@ -12,7 +12,7 @@ tags:
 title: UnitTrade.GetLastDestinationTradeCityComponentID
 ---
 # UnitTrade:GetLastDestinationTradeCityComponentID
-> this function is a member of [[UnitTrade]]
+> this function is a member of [UnitTrade](civ-6/lua/UnitTrade.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

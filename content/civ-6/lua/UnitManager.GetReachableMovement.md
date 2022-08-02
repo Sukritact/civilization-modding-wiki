@@ -12,7 +12,7 @@ tags:
 title: UnitManager.GetReachableMovement
 ---
 # UnitManager.GetReachableMovement
-> this function is a member of [[UnitManager]]
+> this function is a member of [UnitManager](civ-6/lua/UnitManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

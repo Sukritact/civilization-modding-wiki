@@ -12,7 +12,7 @@ tags:
 title: Units.GetPlayerUnitsInPlot
 ---
 # Units.GetPlayerUnitsInPlot
-> this function is a member of [[Units]]
+> this function is a member of [Units](civ-6/lua/Units.md)
 > this method can be invoked with `.`
 -----
 ## Usage

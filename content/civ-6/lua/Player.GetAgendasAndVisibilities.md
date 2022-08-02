@@ -12,7 +12,7 @@ tags:
 title: Player.GetAgendasAndVisibilities
 ---
 # Player:GetAgendasAndVisibilities
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

@@ -3,91 +3,91 @@ title: "Civ 6 Modding Index"
 ---
 
 ## Links
-- [[Knowledge|Knowledge Index]]
+- [Knowledge Index](Knowledge)
 
 ## Objects
 
 ### Events
-- [[Events]]
-- [[GameEvents]]
+- [Events](civ-6/lua/Events.md)
+- [GameEvents](civ-6/lua/GameEvents.md)
 
 ### Instances
-- [[AiDiplomacy]]
-- [[City]]
-	- [[AiCityBuild]]
-	- [[CityBuildings]]
-	- [[CityBuildQueue]]
-	- [[CityCitizens]]
-	- [[CityCulturalIdentity]]
-	- [[CityCulture]]
-	- [[CityDistricts]]
-	- [[CityGold]]
-	- [[CityGrowth]]
-	- [[CityReligion]]
-	- [[CityTrade]]
-- [[District]]
-- [[Player]]
-	- [[AiGrandStrategic]]
-	- [[AiMilitary]]
-	- [[AiReligious]]
-	- [[InfluenceMap]]
-	- [[PlayerCities]]
-	- [[PlayerCulture]]
-	- [[PlayerDistricts]]
-	- [[PlayerEras]]
-	- [[PlayerGovernors]]
-	- [[PlayerGreatPeoplePoints]]
-	- [[PlayerImprovements]]
-	- [[PlayerInfluence]]
-	- [[PlayerReligion]]
-	- [[PlayerResources]]
-	- [[PlayerStats]]
-	- [[PlayerTechs]]
-	- [[PlayerTrade]]
-	- [[PlayerTreasury]]
-	- [[PlayerUnits]]
-	- [[PlayerWMDs]]
-	- [[TeamDiplomacy]]
-- [[PlayerDiplomacy]]
-- [[Plot]]
-	- [[Area]]
-	- [[MapFeature]]
-- [[Unit]]
-	- [[UnitExperience]]
-	- [[UnitGreatPerson]]
-	- [[UnitReligion]]
-	- [[UnitTrade]]
+- [AiDiplomacy](civ-6/lua/AiDiplomacy.md)
+- [City](civ-6/lua/City.md)
+	- [AiCityBuild](civ-6/lua/AiCityBuild.md)
+	- [CityBuildings](civ-6/lua/CityBuildings.md)
+	- [CityBuildQueue](civ-6/lua/CityBuildQueue.md)
+	- [CityCitizens](civ-6/lua/CityCitizens.md)
+	- [CityCulturalIdentity](civ-6/lua/CityCulturalIdentity.md)
+	- [CityCulture](civ-6/lua/CityCulture.md)
+	- [CityDistricts](civ-6/lua/CityDistricts.md)
+	- [CityGold](civ-6/lua/CityGold.md)
+	- [CityGrowth](civ-6/lua/CityGrowth.md)
+	- [CityReligion](civ-6/lua/CityReligion.md)
+	- [CityTrade](civ-6/lua/CityTrade.md)
+- [District](civ-6/lua/District.md)
+- [Player](civ-6/lua/Player.md)
+	- [AiGrandStrategic](civ-6/lua/AiGrandStrategic.md)
+	- [AiMilitary](civ-6/lua/AiMilitary.md)
+	- [AiReligious](civ-6/lua/AiReligious.md)
+	- [InfluenceMap](civ-6/lua/InfluenceMap.md)
+	- [PlayerCities](civ-6/lua/PlayerCities.md)
+	- [PlayerCulture](civ-6/lua/PlayerCulture.md)
+	- [PlayerDistricts](civ-6/lua/PlayerDistricts.md)
+	- [PlayerEras](civ-6/lua/PlayerEras.md)
+	- [PlayerGovernors](civ-6/lua/PlayerGovernors.md)
+	- [PlayerGreatPeoplePoints](civ-6/lua/PlayerGreatPeoplePoints.md)
+	- [PlayerImprovements](civ-6/lua/PlayerImprovements.md)
+	- [PlayerInfluence](civ-6/lua/PlayerInfluence.md)
+	- [PlayerReligion](civ-6/lua/PlayerReligion.md)
+	- [PlayerResources](civ-6/lua/PlayerResources.md)
+	- [PlayerStats](civ-6/lua/PlayerStats.md)
+	- [PlayerTechs](civ-6/lua/PlayerTechs.md)
+	- [PlayerTrade](civ-6/lua/PlayerTrade.md)
+	- [PlayerTreasury](civ-6/lua/PlayerTreasury.md)
+	- [PlayerUnits](civ-6/lua/PlayerUnits.md)
+	- [PlayerWMDs](civ-6/lua/PlayerWMDs.md)
+	- [TeamDiplomacy](civ-6/lua/TeamDiplomacy.md)
+- [PlayerDiplomacy](civ-6/lua/PlayerDiplomacy.md)
+- [Plot](civ-6/lua/Plot.md)
+	- [Area](civ-6/lua/Area.md)
+	- [MapFeature](civ-6/lua/MapFeature.md)
+- [Unit](civ-6/lua/Unit.md)
+	- [UnitExperience](civ-6/lua/UnitExperience.md)
+	- [UnitGreatPerson](civ-6/lua/UnitGreatPerson.md)
+	- [UnitReligion](civ-6/lua/UnitReligion.md)
+	- [UnitTrade](civ-6/lua/UnitTrade.md)
 
 ### Static objects
-- [[Cities]]
-- [[CityManager]]
-- [[CombatManager]]
-- [[DealManager]]
-- [[DiplomacyManager]]
-- [[Game]]
-	- [[GameCulture]]
-	- [[GameEras]]
-	- [[GameFalloutManager]]
-	- [[GameDiplomacy]]
-	- [[GameGreatPeople]]
-	- [[GameReligion]]
-	- [[GameTechs]]
-- [[GameClimate]]
-- [[GameConfiguration]]
-- [[GameEffects]]
-- [[GameRandomEvents]]
-- [[ImprovementBuilder]]
-- [[Map]]
-	- [[CityPlots]]
-- [[MapConfiguration]]
-- [[MapFeatureManager]]
-- [[NotificationManager]]
-- [[PlayerConfigurations]]
-- [[PlayerManager]]
-- [[PlayerVisibilityManager]]
-- [[RiverManager]]
-- [[TerrainBuilder]]
-- [[TerrainManager]]
-- [[Territories]]
-- [[UnitManager]]
-- [[Units]]
+- [Cities](civ-6/lua/Cities.md)
+- [CityManager](civ-6/lua/CityManager.md)
+- [CombatManager](civ-6/lua/CombatManager.md)
+- [DealManager](civ-6/lua/DealManager.md)
+- [DiplomacyManager](civ-6/lua/DiplomacyManager.md)
+- [Game](civ-6/lua/Game.md)
+	- [GameCulture](civ-6/lua/GameCulture.md)
+	- [GameEras](civ-6/lua/GameEras.md)
+	- [GameFalloutManager](civ-6/lua/GameFalloutManager.md)
+	- [GameDiplomacy](civ-6/lua/GameDiplomacy.md)
+	- [GameGreatPeople](civ-6/lua/GameGreatPeople.md)
+	- [GameReligion](civ-6/lua/GameReligion.md)
+	- [GameTechs](civ-6/lua/GameTechs.md)
+- [GameClimate](civ-6/lua/GameClimate.md)
+- [GameConfiguration](civ-6/lua/GameConfiguration.md)
+- [GameEffects](civ-6/lua/GameEffects.md)
+- [GameRandomEvents](civ-6/lua/GameRandomEvents.md)
+- [ImprovementBuilder](civ-6/lua/ImprovementBuilder.md)
+- [Map](civ-6/lua/Map.md)
+	- [CityPlots](civ-6/lua/CityPlots.md)
+- [MapConfiguration](civ-6/lua/MapConfiguration.md)
+- [MapFeatureManager](civ-6/lua/MapFeatureManager.md)
+- [NotificationManager](civ-6/lua/NotificationManager.md)
+- [PlayerConfigurations](civ-6/lua/PlayerConfigurations.md)
+- [PlayerManager](civ-6/lua/PlayerManager.md)
+- [PlayerVisibilityManager](civ-6/lua/PlayerVisibilityManager.md)
+- [RiverManager](civ-6/lua/RiverManager.md)
+- [TerrainBuilder](civ-6/lua/TerrainBuilder.md)
+- [TerrainManager](civ-6/lua/TerrainManager.md)
+- [Territories](civ-6/lua/Territories.md)
+- [UnitManager](civ-6/lua/UnitManager.md)
+- [Units](civ-6/lua/Units.md)

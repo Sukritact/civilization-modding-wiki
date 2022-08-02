@@ -12,7 +12,7 @@ tags:
 title: UnitGreatPerson.GetAreaHighlightPlots
 ---
 # UnitGreatPerson:GetAreaHighlightPlots
-> this function is a member of [[UnitGreatPerson]]
+> this function is a member of [UnitGreatPerson](civ-6/lua/UnitGreatPerson.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

@@ -12,7 +12,7 @@ tags:
 title: PlayerTrade.GetNumOutgoingRoutes
 ---
 # PlayerTrade:GetNumOutgoingRoutes
-> this function is a member of [[PlayerTrade]]
+> this function is a member of [PlayerTrade](civ-6/lua/PlayerTrade.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

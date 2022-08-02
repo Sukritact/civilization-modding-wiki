@@ -12,7 +12,7 @@ tags:
 title: PlayerStats.GetScienceVictoryPointsPerTurn
 ---
 # PlayerStats:GetScienceVictoryPointsPerTurn
-> this function is a member of [[PlayerStats]]
+> this function is a member of [PlayerStats](civ-6/lua/PlayerStats.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

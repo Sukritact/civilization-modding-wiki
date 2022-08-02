@@ -13,7 +13,7 @@ tags:
 title: CityBuildQueue.GetTurnsLeft
 ---
 # CityBuildQueue:GetTurnsLeft
-> this function is a member of [[CityBuildQueue]]
+> this function is a member of [CityBuildQueue](civ-6/lua/CityBuildQueue.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

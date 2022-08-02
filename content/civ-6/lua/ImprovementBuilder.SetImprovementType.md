@@ -12,7 +12,7 @@ tags:
 title: ImprovementBuilder.SetImprovementType
 ---
 # ImprovementBuilder.SetImprovementType
-> this function is a member of [[ImprovementBuilder]]
+> this function is a member of [ImprovementBuilder](civ-6/lua/ImprovementBuilder.md)
 > this method can be invoked with `.`
 -----
 ## Usage

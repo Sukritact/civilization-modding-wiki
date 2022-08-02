@@ -13,7 +13,7 @@ tags:
 title: QuestsManager.HasActiveQuestFromPlayer
 ---
 # QuestsManager:HasActiveQuestFromPlayer
-> this function is a member of [[QuestsManager]]
+> this function is a member of [QuestsManager](civ-6/lua/QuestsManager.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

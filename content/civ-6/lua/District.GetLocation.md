@@ -13,7 +13,7 @@ tags:
 title: District.GetLocation
 ---
 # District:GetLocation
-> this function is a member of [[District]]
+> this function is a member of [District](civ-6/lua/District.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

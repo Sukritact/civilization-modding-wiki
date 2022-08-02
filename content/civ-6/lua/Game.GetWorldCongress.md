@@ -13,10 +13,10 @@ tags:
 title: Game.GetWorldCongress
 ---
 # Game.GetWorldCongress
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[CongressManager]]|Game.GetWorldCongress||
+|✓| |[CongressManager](civ-6/lua/CongressManager.md)|Game.GetWorldCongress||

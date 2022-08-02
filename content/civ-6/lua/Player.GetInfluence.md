@@ -14,10 +14,10 @@ tags:
 title: Player.GetInfluence
 ---
 # Player:GetInfluence
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[PlayerInfluence]]|Player:GetInfluence||
+|✓|✓|[PlayerInfluence](civ-6/lua/PlayerInfluence.md)|Player:GetInfluence||

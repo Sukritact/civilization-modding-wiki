@@ -12,7 +12,7 @@ tags:
 title: InfluenceMap.Find
 ---
 # InfluenceMap:Find
-> this function is a member of [[InfluenceMap]]
+> this function is a member of [InfluenceMap](civ-6/lua/InfluenceMap.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

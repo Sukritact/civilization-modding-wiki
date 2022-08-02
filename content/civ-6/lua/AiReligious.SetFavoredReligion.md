@@ -12,7 +12,7 @@ tags:
 title: AiReligious.SetFavoredReligion
 ---
 # AiReligious:SetFavoredReligion
-> this function is a member of [[AiReligious]]
+> this function is a member of [AiReligious](civ-6/lua/AiReligious.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

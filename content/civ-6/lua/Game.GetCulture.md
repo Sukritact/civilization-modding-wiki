@@ -13,10 +13,10 @@ tags:
 title: Game.GetCulture
 ---
 # Game.GetCulture
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[GameCulture]]|Game.GetCulture||
+|✓| |[GameCulture](civ-6/lua/GameCulture.md)|Game.GetCulture||

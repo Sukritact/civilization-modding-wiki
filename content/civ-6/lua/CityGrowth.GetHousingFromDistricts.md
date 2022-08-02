@@ -13,7 +13,7 @@ tags:
 title: CityGrowth.GetHousingFromDistricts
 ---
 # CityGrowth:GetHousingFromDistricts
-> this function is a member of [[CityGrowth]]
+> this function is a member of [CityGrowth](civ-6/lua/CityGrowth.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

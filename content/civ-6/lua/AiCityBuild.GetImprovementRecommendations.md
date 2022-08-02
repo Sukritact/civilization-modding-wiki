@@ -12,7 +12,7 @@ tags:
 title: AiCityBuild.GetImprovementRecommendations
 ---
 # AiCityBuild:GetImprovementRecommendations
-> this function is a member of [[AiCityBuild]]
+> this function is a member of [AiCityBuild](civ-6/lua/AiCityBuild.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

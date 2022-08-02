@@ -16,7 +16,7 @@ tags:
 title: GameGreatPeople.CreatePerson
 ---
 # GameGreatPeople:CreatePerson
-> this function is a member of [[GameGreatPeople]]
+> this function is a member of [GameGreatPeople](civ-6/lua/GameGreatPeople.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

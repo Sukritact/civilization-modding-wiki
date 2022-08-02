@@ -13,7 +13,7 @@ tags:
 title: Game.GetProperties
 ---
 # Game:GetProperties
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

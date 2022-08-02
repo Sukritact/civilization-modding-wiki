@@ -13,10 +13,10 @@ tags:
 title: Game.GetTechs
 ---
 # Game.GetTechs
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓| |[[GameTechs]]|Game.GetTechs||
+|✓| |[GameTechs](civ-6/lua/GameTechs.md)|Game.GetTechs||

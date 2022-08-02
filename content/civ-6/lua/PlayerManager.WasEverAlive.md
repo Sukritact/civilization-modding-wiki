@@ -12,7 +12,7 @@ tags:
 title: PlayerManager.WasEverAlive
 ---
 # PlayerManager.WasEverAlive
-> this function is a member of [[PlayerManager]]
+> this function is a member of [PlayerManager](civ-6/lua/PlayerManager.md)
 > this method can be invoked with `.`
 -----
 ## Usage

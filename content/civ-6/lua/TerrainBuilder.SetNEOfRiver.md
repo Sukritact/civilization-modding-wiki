@@ -12,7 +12,7 @@ tags:
 title: TerrainBuilder.SetNEOfRiver
 ---
 # TerrainBuilder.SetNEOfRiver
-> this function is a member of [[TerrainBuilder]]
+> this function is a member of [TerrainBuilder](civ-6/lua/TerrainBuilder.md)
 > this method can be invoked with `.`
 -----
 ## Usage

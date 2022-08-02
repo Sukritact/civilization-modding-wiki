@@ -14,10 +14,10 @@ tags:
 title: Player.GetGreatPeoplePoints
 ---
 # Player:GetGreatPeoplePoints
-> this function is a member of [[Player]]
+> this function is a member of [Player](civ-6/lua/Player.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
 |  UI | Script | Returns | Function | Arguments |
 |:---:|:------:|-------:|:--------:|:---------|
-|✓|✓|[[PlayerGreatPeoplePoints]]|Player:GetGreatPeoplePoints||
+|✓|✓|[PlayerGreatPeoplePoints](civ-6/lua/PlayerGreatPeoplePoints.md)|Player:GetGreatPeoplePoints||

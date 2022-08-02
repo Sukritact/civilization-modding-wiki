@@ -12,7 +12,7 @@ tags:
 title: Game.WriteHistoryLog
 ---
 # Game.WriteHistoryLog
-> this function is a member of [[Game]]
+> this function is a member of [Game](civ-6/lua/Game.md)
 > this method can be invoked with `.`
 -----
 ## Usage

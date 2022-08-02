@@ -12,7 +12,7 @@ tags:
 title: CityCulture.GetCultureYield
 ---
 # CityCulture:GetCultureYield
-> this function is a member of [[CityCulture]]
+> this function is a member of [CityCulture](civ-6/lua/CityCulture.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

@@ -12,7 +12,7 @@ tags:
 title: CityTrade.GetOutgoingRoutes
 ---
 # CityTrade:GetOutgoingRoutes
-> this function is a member of [[CityTrade]]
+> this function is a member of [CityTrade](civ-6/lua/CityTrade.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

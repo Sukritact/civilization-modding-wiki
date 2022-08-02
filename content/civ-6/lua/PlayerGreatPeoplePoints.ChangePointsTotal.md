@@ -12,7 +12,7 @@ tags:
 title: PlayerGreatPeoplePoints.ChangePointsTotal
 ---
 # PlayerGreatPeoplePoints:ChangePointsTotal
-> this function is a member of [[PlayerGreatPeoplePoints]]
+> this function is a member of [PlayerGreatPeoplePoints](civ-6/lua/PlayerGreatPeoplePoints.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

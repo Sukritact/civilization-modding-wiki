@@ -10,7 +10,7 @@ title: "About Get-SetProperty"
 
 > `NULL` Object:SetProperty( `Key [string]`, `Data` )
 
-Get/SetProperty is a useful little method that can be used to store persistent data in [[Lua#Instances|Instances]] and in the [[Game]] object. Simply provide the key and the data to store with SetProperty, or just the key to retrieve it with GetProperty.
+Get/SetProperty is a useful little method that can be used to store persistent data in [](Lua#Instances%7CInstances) and in the [Game](civ-6/lua/Game.md) object. Simply provide the key and the data to store with SetProperty, or just the key to retrieve it with GetProperty.
 
 Get/SetProperty always expects an implicit self argument and MUST be called with `:`, even on the Game object.
 

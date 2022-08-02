@@ -12,7 +12,7 @@ tags:
 title: GameEras.GetPlayerCurrentScore
 ---
 # GameEras:GetPlayerCurrentScore
-> this function is a member of [[GameEras]]
+> this function is a member of [GameEras](civ-6/lua/GameEras.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

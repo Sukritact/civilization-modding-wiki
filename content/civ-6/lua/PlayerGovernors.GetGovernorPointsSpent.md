@@ -13,7 +13,7 @@ tags:
 title: PlayerGovernors.GetGovernorPointsSpent
 ---
 # PlayerGovernors:GetGovernorPointsSpent
-> this function is a member of [[PlayerGovernors]]
+> this function is a member of [PlayerGovernors](civ-6/lua/PlayerGovernors.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage

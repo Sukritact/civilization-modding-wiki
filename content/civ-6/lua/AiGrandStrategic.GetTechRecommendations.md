@@ -12,7 +12,7 @@ tags:
 title: AiGrandStrategic.GetTechRecommendations
 ---
 # AiGrandStrategic:GetTechRecommendations
-> this function is a member of [[AiGrandStrategic]]
+> this function is a member of [AiGrandStrategic](civ-6/lua/AiGrandStrategic.md)
 > this method expects an implicit "self" argument. invoke it with `:`
 -----
 ## Usage
